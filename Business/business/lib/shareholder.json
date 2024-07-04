@@ -1,0 +1,28 @@
+[
+    {
+      "name": "John Doe",
+      "image": "https://i.ibb.co/rfjkrLZ/images.jpg",
+      "about": "John is a web developer with a passion for creating interactive and user-friendly applications. He specializes in front-end technologies and enjoys working with React and Next.js."
+    },
+    {
+      "name": "Jane Smith",
+      "image": "https://i.ibb.co/bs3M2dL/images-3.jpg",
+      "about": "Jane is a UX/UI designer with a background in graphic design. She focuses on creating intuitive and visually appealing user experiences, and she has experience with tools like Figma and Sketch."
+    },
+    {
+      "name": "Alice Johnson",
+      "image": "https://i.ibb.co/b5JnsHr/images-1.jpg",
+      "about": "Alice is a full-stack developer with experience in both front-end and back-end technologies. She enjoys solving complex problems and is skilled in Node.js, Express, and MongoDB."
+    },
+    {
+      "name": "Bob Brown",
+      "image": "https://i.ibb.co/qYk6g5k/images-2.jpg",
+      "about": "Bob is a software engineer with a background in algorithms and data structures. He has experience in various programming languages and is passionate about building efficient and scalable systems."
+    },
+    {
+      "name": "Eve Davis",
+      "image": "https://i.ibb.co/bs3M2dL/images-3.jpg",
+      "about": "Eve is a data analyst who excels at turning data into actionable insights. She has experience with data visualization tools and is proficient in SQL and Python for data analysis."
+    }
+  ]
+  
